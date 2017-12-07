@@ -71,8 +71,7 @@ h3{
 #short{
     width: 220px;
 }
-
-/* Footer, Sticky Footer*/
+/* Footer */
 
 footer{
     height: 99px;
@@ -82,13 +81,6 @@ footer{
     padding: 30px;
     border-top: 6px solid #4aaaa5;
     width: 100%;
-}
-
-.push{
-    height: 410px;
-}
-.push1{
-    height: 597px;
 }
 
 
